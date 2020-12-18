@@ -1,0 +1,2 @@
+Gdal wheel not provided here as demonstrated in the webinar session because of the file limit of 25 MB and the wheel size being 28 MB.
+You can find the gdal wheel on : https://www.lfd.uci.edu/~gohlke/pythonlibs/
