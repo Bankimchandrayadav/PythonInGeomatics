@@ -1,0 +1,1 @@
+This folder contains 1000 reprojected files in tiff format

@@ -1,0 +1,1 @@
+This folder contains 1000 resampled files in tiff format
